@@ -1,7 +1,6 @@
-# 10_implementacion_router
-
 <h1>Desafío - Props como rutas, redirecciones, alias,transiciones y lazy loading</h1>
 
+<b>Luis Aviles Santos</b>
 ## Project setup
 ```
 npm install
@@ -21,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
